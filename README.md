@@ -1,3 +1,6 @@
+# PRACTICE REACTJS PROJECT
+This project is for practice, search movies and list popular movies from TMDB API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
